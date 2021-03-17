@@ -1,0 +1,104 @@
+header {
+  font-family: sans-serif;
+  color: white;
+  line-height: 12px;
+}
+
+body {
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-left: 50px;
+  height: 2550px;
+  width: 3300px;
+}
+
+.rectangle {
+  width: 3360px;
+  height: 195px;
+  background-color: #FF931F;
+  position: absolute;
+  margin-left: -60px;
+  margin-top: -50px;
+  z-index: -2;
+}
+
+.roundedrectangle {
+  position: absolute;
+  z-index: -1;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-left: -50px;
+  width: 3350px;
+  height: 2450px;
+  background: white;
+}
+
+.stars {
+  position: absolute;
+  margin-left: 600px;
+  margin-top: -45px;
+}
+
+.sentence_stars{
+  margin-top: -15px;
+}
+
+.sentence_star_number {
+  position: absolute;
+  font-weight: 200;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.star_number {
+  position: float;
+  margin-left: 174px;
+  margin-top: -31px;
+}
+
+.ratings_number {
+  position: float;
+  margin-left: 210px;
+  margin-top: -45px;
+  color: #c1c1c1;
+}
+
+
+h1 {
+  font-weight: 200;
+  font-size: 40px;
+}
+
+h2 {
+    color: #B1B1B1;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+h3 {
+    color: #333333;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+h5 {
+  text-transform: capitalize;
+  font-weight: 200;
+  font-size: 17px;
+}
+
+h7 {
+  color: #333333;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+p {
+  color: #333333;
+  width: 60em;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 22px;
+}

@@ -1,0 +1,23 @@
+# tensorflow==1.9.0
+Keras==2.2.0
+joblib==0.12.0
+numpy==1.14.5
+pandas==0.23.1
+spacy==2.0.12
+nltk 
+aylien-apiclient
+bs4
+flask
+requests
+openpyxl
+xlsxwriter
+lxml
+foursquare
+xlrd
+selenium
+pyahocorasick
+yattag
+pdfkit
+msgpack==0.5.6
+slimit
+opencv-python
